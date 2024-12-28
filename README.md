@@ -8,7 +8,7 @@ You can watch the demonstration on YouTube by clicking the video below:
 
 <p align="center">
   <a href="https://youtu.be/Zvpnq7ACSOs?si=C4tUaRIs6SqyctDL" target="_blank">
-    <img src="https://img.youtube.com/vi/Zvpnq7ACSOs/0.jpg" alt="Watch the video" width="80%" height="auto" />
+    <img src="https://img.youtube.com/vi/Zvpnq7ACSOs/0.jpg" alt="Watch the video" width="80%" height="50%" />
   </a>
 </p>
 
