@@ -2,7 +2,8 @@
 
 This project includes three scripts designed to subscribe, generate, exchange, and plot the left and right target RPMs of a differential drive robot. The project consists of two C++ scripts (Script A and Script B) and one Python script (Script C). These scripts interact with each other using shared memory for communication between the C++ scripts and HTTP requests between the C++ and Python scripts. The objective is to calculate and visualize the robot's wheel RPMs in real time, without relying on pub-sub architectures like ROS, DDS, or MQTT.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zvpnq7ACSOs?si=7j9kh2fapk8JmDRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/qpoJ0rZ54FA/0.jpg)](https://youtu.be/qpoJ0rZ54FA)
 
 ## File Structure
 
