@@ -1,6 +1,4 @@
-# Project README
-
-## Overview
+# ros-wheel-rpm-visualization
 
 This project includes three scripts designed to subscribe, generate, exchange, and plot the left and right target RPMs of a differential drive robot. The project consists of two C++ scripts (Script A and Script B) and one Python script (Script C). These scripts interact with each other using shared memory for communication between the C++ scripts and HTTP requests between the C++ and Python scripts. The objective is to calculate and visualize the robot's wheel RPMs in real time, without relying on pub-sub architectures like ROS, DDS, or MQTT.
 
