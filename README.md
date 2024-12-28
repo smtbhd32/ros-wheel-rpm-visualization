@@ -4,9 +4,13 @@ This project includes three scripts designed to subscribe, generate, exchange, a
 
 ## Watch Demo
 
-You can watch the demo of the project below:
+You can watch the demonstration on YouTube by clicking the video below:
 
-[![Watch the video](https://img.youtube.com/vi/Zvpnq7ACSOs/0.jpg)](https://youtu.be/Zvpnq7ACSOs?si=C4tUaRIs6SqyctDL)
+<p align="center">
+  <a href="https://youtu.be/Zvpnq7ACSOs?si=C4tUaRIs6SqyctDL">
+    <img src="https://img.youtube.com/vi/Zvpnq7ACSOs/0.jpg" alt="Watch the video" width="80%" />
+  </a>
+</p>
 
 ## File Structure
 
