@@ -8,7 +8,7 @@ You can watch the demonstration on YouTube by clicking the video below:
 
 <p align="center">
   <a href="https://youtu.be/Zvpnq7ACSOs?si=C4tUaRIs6SqyctDL" target="_blank">
-    <img src="https://github.com/smtbhd32/ros-wheel-rpm-visualization/main/video_thumbnail.jpg" alt="Watch the video" width="80%" height="auto" />
+    <img src="https://github.com/smtbhd32/ros-wheel-rpm-visualization/blob/main/video%20thumbnail.png" alt="Watch the video" width="80%" height="auto" />
   </a>
 </p>
 
